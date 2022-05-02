@@ -1,4 +1,6 @@
-# BINARY CLASSIFICATION
+## EX.NO: 02
+## DATE:
+# <p align="center"> BINARY CLASSIFICATION
 ## Aim:
 To write a python program to perform binary classification.
 
@@ -43,7 +45,7 @@ pyplot.show()
 ```
 
 ## Output:
-![BINARY CLASSIFICATION - Jupyter Notebook — Mozilla Firefox 20-04-2022 19_57_07](https://user-images.githubusercontent.com/75235386/164254529-784bb4d9-4bfb-4786-8533-0496bfcf7b93.png)
+![BINARY CLASSIFICATION - Jupyter Notebook — Mozilla Firefox 20-04-2022 19_57_07 (2)](https://user-images.githubusercontent.com/75235386/166243283-6a799f6d-5e0c-4360-92cb-74e152065d57.png)
 
 
 
